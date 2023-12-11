@@ -1,7 +1,7 @@
 #!/bin/bash
 
 while true; do
-        sleep 1
+        sleep 2
         clear
-        git log --oneline --graph
+        git log --oneline --graph -n 15
 done;
