@@ -1,5 +1,8 @@
 Jos jedna linija na vrh fajla
 testiranje novih izmena
+Lokalne Izmene1
+Lokalne Izmene2
+Lokalne Izmene3
 Recimo ja cu da ovdje
 Dodam neki tekst
 Ali on je mora da bude
