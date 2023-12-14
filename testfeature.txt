@@ -1,7 +1,6 @@
 testiranje novih izmena
-testiranje novih izmena
-testiranje novih izmena
 Recimo ja cu da ovdje
 Dodam neki tekst
 Ali on je mora da bude
 U jednoj liniji
+Zadnja linija u fajlu
