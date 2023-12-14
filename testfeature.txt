@@ -1,3 +1,4 @@
+Jos jedna linija na vrh fajla
 testiranje novih izmena
 Recimo ja cu da ovdje
 Dodam neki tekst
